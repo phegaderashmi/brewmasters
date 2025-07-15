@@ -1,7 +1,3 @@
-"use client";
-import Image from "next/image";
-import { FaStar, FaStarHalfAlt } from "react-icons/fa";
-import Navbar from "../components/Navbar";
 
 "use client";
 import Image from "next/image";
