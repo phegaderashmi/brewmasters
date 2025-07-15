@@ -33,7 +33,7 @@ export default function ReviewSection() {
           {/* Heading */}
           <h2 className="text-center text-uppercase fw-bold mb-5">
             <span style={{ color: "#d2a679", fontSize: "2.5rem" }}>
-              Customer's
+              Customer&apos;s
             </span>{" "}
             <span className="text-white" style={{ fontSize: "2.5rem" }}>
               Review
